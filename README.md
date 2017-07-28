@@ -17,6 +17,9 @@
 [算法珠玑](https://soulmachine.gitbooks.io/algorithm-essentials/content/java/linear-list/array/remove-duplicates-from-sorted-array-ii.html)
 
 
-
 ## 计算机基础
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
+
+
+## js
+[ECMAScript 2018 specification](https://tc39.github.io/ecma262/#sec-numbers-and-dates)
