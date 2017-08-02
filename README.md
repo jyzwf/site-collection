@@ -23,3 +23,4 @@
 
 ## js
 [ECMAScript 2018 specification](https://tc39.github.io/ecma262/#sec-numbers-and-dates)
+[Web Fundamentals](https://developers.google.com/web/fundamentals/)
