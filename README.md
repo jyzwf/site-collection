@@ -25,3 +25,6 @@
 [ECMAScript 2018 specification](https://tc39.github.io/ecma262/#sec-numbers-and-dates)  
 [Web Fundamentals](https://developers.google.com/web/fundamentals/)  
 [Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+
+## react
+[在React.js中使用PureComponent的重要性和使用方式](http://www.zcfy.cc/article/why-and-how-to-use-purecomponent-in-react-js-60devs-2344.html)
