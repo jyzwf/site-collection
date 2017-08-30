@@ -24,7 +24,9 @@
 ## js
 [ECMAScript 2018 specification](https://tc39.github.io/ecma262/#sec-numbers-and-dates)  
 [Web Fundamentals](https://developers.google.com/web/fundamentals/)  
-[Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+[Functional Mixins](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)  
+[js事件循环](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+[How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 
 ## react
 [在React.js中使用PureComponent的重要性和使用方式](http://www.zcfy.cc/article/why-and-how-to-use-purecomponent-in-react-js-60devs-2344.html)
