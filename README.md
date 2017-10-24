@@ -32,7 +32,7 @@
 [js事件循环](https://www.youtube.com/watch?v=8aGhZQkoFbQ)  
 [How JavaScript works: an overview of the engine, the runtime, and the call stack](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)    
 [通过JavaScript 柯里化求加法运算引发的对JavaScript类型转换的思考](http://blog.csdn.net/u010533180/article/details/55045803)   
-![详解 Cookie 纪要](https://jeffjade.com/2016/10/31/115-summary-of-cookie/)
+[详解 Cookie 纪要](https://jeffjade.com/2016/10/31/115-summary-of-cookie/)
 
 ## react
 [在React.js中使用PureComponent的重要性和使用方式](http://www.zcfy.cc/article/why-and-how-to-use-purecomponent-in-react-js-60devs-2344.html)
