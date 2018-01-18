@@ -26,7 +26,7 @@
 
 
 ## js
-
+[js中的事件委托或是事件代理详解](https://www.cnblogs.com/liugang-vip/p/5616484.html)
 [前端性能优化（三） 移动端浏览器前端优化策略](https://my.oschina.net/zhangstephen/blog/1601383)
 [ECMAScript 2018 specification](https://tc39.github.io/ecma262/#sec-numbers-and-dates)  
 [Web Fundamentals](https://developers.google.com/web/fundamentals/)  
