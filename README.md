@@ -23,7 +23,7 @@
 
 ## 计算机基础
 [进程与线程的一个简单解释](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
-
+[浏览器缓存机制剖析](http://louiszhai.github.io/2017/04/07/http-cache/#If-Unmodified-Since)
 
 ## js
 [深入核心，详解事件循环机制](https://yangbo5207.github.io/wutongluo/ji-chu-jin-jie-xi-lie/shi-er-3001-shi-jian-xun-huan-ji-zhi.html)  
